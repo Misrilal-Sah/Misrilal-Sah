@@ -88,11 +88,7 @@ const misrilal = {
 | [**🌤️ SkyCast**](https://github.com/Misrilal-Sah/SkyCast) | Modern weather app — real-time conditions, hourly & 7-day forecasts | `Vue.js` `Vite` `OpenWeather API` |
 | [**🔍 AI Query Master**](https://github.com/Misrilal-Sah/AI-Query-Master) | AI database assistant using RAG, reasoning & agentic workflows | `Python` `FastAPI` `React 18` `ChromaDB` `Multi-LLM` |
 | [**🏥 MediFlow**](https://github.com/Misrilal-Sah/MediFlow) | Hospital management system — patients, appointments, billing & workflows | `Python` `Flask` `MySQL` `Jinja2` |
-| [**✍️ GrammarGenius Pro**](https://github.com/Misrilal-Sah/GrammarGenius-Pro) | Chrome Extension — AI grammar & email fixer (Groq, Gemini, GitHub Models) | `Chrome Extension` `JavaScript` `Multi-AI` |
-| [**🎨 Design Inspector Pro**](https://github.com/Misrilal-Sah/Design-Inspector-Pro) | Chrome Extension — webpage visual analyzer for colors, typography & layout | `Chrome Extension` `JavaScript` |
-| [**🌐 GlobeSync**](https://github.com/Misrilal-Sah/GlobeSync) | Chrome Extension — instant timezone & currency converter for professionals | `Chrome Extension` `JavaScript` |
 | [**📄 File Manipulation Tool**](https://github.com/Misrilal-Sah/file-manipulation-tool) | PDF merging, splitting, organizing & converting with intuitive UI | `TypeScript` `PDF.js` |
-| [**📸 Screenshot Master**](https://github.com/Misrilal-Sah/Screenshot-Master-extension) | Chrome Extension — full-page & region screenshots with annotation tools | `Chrome Extension` `JavaScript` |
 | [**🎨 Color Detection Pro**](https://github.com/Misrilal-Sah/Color-Detection-Using-python) | Desktop app for intelligent color detection via image upload & live camera | `Python` `OpenCV` `CustomTkinter` |
 | [**🌐 Portfolio**](https://portfolio-2-ym74.onrender.com/) | Personal developer portfolio — showcasing projects, skills & experience | `PHP` `Laravel` `Vue.js` `MySQL` |
 
@@ -106,10 +102,25 @@ const misrilal = {
 
 | 🔧 Extension | 📝 Description | ✨ Status | 🎯 Downloads |
 |---|---|---|---|
-| [**🎙️ Cursor Voice Assistant**](https://github.com/Misrilal-Sah/Cursor-Voice-Assistant) | Capture microphone input directly inside VS Code using Windows built-in speech recognition — transcribed text lands on your clipboard, ready to paste into Cursor AI chat | `v0.1.0` - Unpublished 🔄 | 1 |
 | [**🎯 Insert Utilities**](https://marketplace.visualstudio.com/items?itemName=MisrilalSah.insert-utilities) | The all-in-one text generator for developers — generate UUID, Lorem Ipsum & more instantly | `v1.0.0` - Published ✅ | 2 |
 | [**🛤️ Path Master**](https://marketplace.visualstudio.com/items?itemName=MisrilalSah.path-master) | Stop hunting for file paths. Copy file paths instantly from anywhere in your project | `v1.0.0` - Published ✅ | 1 |
 | [**✨ Trailing-Spaces-Pro**](https://marketplace.visualstudio.com/items?itemName=MisrilalSah.trailing-spaces-pro) | The prettiest way to keep your code clean — automated trailing space detection & removal | `v1.0.0` - Published ✅ | 1 |
+| [**🎙️ Cursor Voice Assistant**](https://github.com/Misrilal-Sah/Cursor-Voice-Assistant) | Capture microphone input directly inside VS Code using Windows built-in speech recognition — transcribed text lands on your clipboard, ready to paste into Cursor AI chat | `v0.1.0` - Unpublished 🔄 | 17 |
+
+</div>
+
+---
+
+## 🌐 Google Chrome Extensions
+
+<div align="center">
+
+| 🔧 Extension | 📝 Description | 🔧 Stack |
+|---|---|---|
+| [**🎨 Design Inspector Pro**](https://github.com/Misrilal-Sah/Design-Inspector-Pro) | Webpage visual analyzer for colors, typography & layout | `Chrome Extension` `JavaScript` |
+| [**🌐 GlobeSync**](https://github.com/Misrilal-Sah/GlobeSync) | Instant timezone & currency converter for professionals | `Chrome Extension` `JavaScript` |
+| [**📸 Screenshot Master**](https://github.com/Misrilal-Sah/Screenshot-Master-extension) | Full-page & region screenshots with annotation tools | `Chrome Extension` `JavaScript` |
+| [**✍️ GrammarGenius Pro**](https://github.com/Misrilal-Sah/GrammarGenius-Pro) | AI grammar & email fixer powered by Groq, Gemini & GitHub Models | `Chrome Extension` `JavaScript` `Multi-AI` |
 
 </div>
 
