@@ -100,6 +100,21 @@ const misrilal = {
 
 ---
 
+## 🧩 VS Code Extensions
+
+<div align="center">
+
+| 🔧 Extension | 📝 Description | ✨ Status | 🎯 Downloads |
+|---|---|---|---|
+| [**🎙️ Cursor Voice Assistant**](https://github.com/Misrilal-Sah/Cursor-Voice-Assistant) | Capture microphone input directly inside VS Code using Windows built-in speech recognition — transcribed text lands on your clipboard, ready to paste into Cursor AI chat | `v0.1.0` - Unpublished 🔄 | 1 |
+| [**🎯 Insert Utilities**](https://marketplace.visualstudio.com/items?itemName=MisrilalSah.insert-utilities) | The all-in-one text generator for developers — generate UUID, Lorem Ipsum & more instantly | `v1.0.0` - Published ✅ | 2 |
+| [**🛤️ Path Master**](https://marketplace.visualstudio.com/items?itemName=MisrilalSah.path-master) | Stop hunting for file paths. Copy file paths instantly from anywhere in your project | `v1.0.0` - Published ✅ | 1 |
+| [**✨ Trailing-Spaces-Pro**](https://marketplace.visualstudio.com/items?itemName=MisrilalSah.trailing-spaces-pro) | The prettiest way to keep your code clean — automated trailing space detection & removal | `v1.0.0` - Published ✅ | 1 |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
