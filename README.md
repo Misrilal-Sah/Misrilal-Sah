@@ -145,15 +145,19 @@ const misrilal = {
 
 ---
 
-## 🏆 GitHub Trophies
+
+## 🏅 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Misrilal-Sah&theme=tokyonight&margin-w=8&column=5" alt="GitHub Trophies" width="90%"/>
+| <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="90" alt="YOLO"/> | <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" width="90" alt="Galaxy Brain"/> | <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" width="90" alt="Pair Extraordinaire"/> | <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="90" alt="Quickdraw"/> | <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark.png" width="90" alt="Pull Shark"/> |
+|:---:|:---:|:---:|:---:|:---:|
+| **YOLO** | **Galaxy Brain** | **Pair Extraordinaire** | **Quickdraw** | **Pull Shark** |
 
 </div>
 
 ---
+
 
 ## 🎓 Licenses & Certifications
 
@@ -171,20 +175,6 @@ const misrilal = {
 | 🐬 **The Ultimate MySQL Bootcamp** | Udemy | Nov 2023 |
 | 🔷 **PHP: Object-Oriented Programming** | LinkedIn | Sep 2023 |
 | 🐍 **Complete Python Developer: Zero to Mastery** | Udemy | Aug 2022 |
-
-</div>
-
-
-
----
-
-## 🏅 GitHub Achievements
-
-<div align="center">
-
-| <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="90" alt="YOLO"/> | <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" width="90" alt="Galaxy Brain"/> | <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" width="90" alt="Pair Extraordinaire"/> | <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="90" alt="Quickdraw"/> | <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark.png" width="90" alt="Pull Shark"/> |
-|:---:|:---:|:---:|:---:|:---:|
-| **YOLO** | **Galaxy Brain** | **Pair Extraordinaire** | **Quickdraw** | **Pull Shark** |
 
 </div>
 
