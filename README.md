@@ -81,6 +81,7 @@ const misrilal = {
 |---|---|---|
 | [**🛍️ Aabhar-ecom**](https://github.com/Misrilal-Sah/Aabhar-ecom) | Premium jewelry e-commerce with elegant UI, product galleries & secure checkout | `React 18` `Node.js` `Express` `MySQL` `Razorpay` |
 | [**🌍 MirraSync**](https://github.com/Misrilal-Sah/MirraSync) | Run 20 AI models simultaneously — one prompt, all minds | `React 18` `Node.js` `MySQL` `Prisma` `Multi-AI` |
+| [**🤖 AI interview Copilot**](https://github.com/Misrilal-Sah/ai-interview-copilot) | Reads your screen, answers coding problems and interview questions in real time. Multi-provider, voice input, chat, invisible overlay. | `Electron` `React 18` `TypeScript` |
 | [**💊 PharmaDesk**](https://github.com/Misrilal-Sah/PharmaDesk) | Pharmacy Management System for clinics — prescriptions, inventory & billing | `React 18` `Node.js` `Express` `MySQL` |
 | [**🤖 Capstone AI Code Reviewer**](https://github.com/Misrilal-Sah/capstone-ai-code-review-and-correction-agent) | AI agent that reviews code via RAG pipeline & suggests improvements | `Python` `FastAPI` `RAG` `LangChain` |
 | [**🧠 RAG Chatbot GenAI**](https://github.com/Misrilal-Sah/rag-chatbot-genai) | Retrieval-Augmented Generation chatbot with document-based knowledge | `Python` `GenAI` `RAG` |
